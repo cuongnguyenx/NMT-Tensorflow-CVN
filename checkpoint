@@ -1,0 +1,2 @@
+model_checkpoint_path: "/NMT/Attention-Uni-Tokenized-130K-EnVi.ckpt"
+all_model_checkpoint_paths: "/NMT/Attention-Uni-Tokenized-130K-EnVi.ckpt"
